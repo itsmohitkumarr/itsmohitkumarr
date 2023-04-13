@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/mohit-meena-a40238264/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
-  <a href="https:https://instagram.com/meenamohit.jsx?igshid=ZDdkNTZiNTM=">
+  <a href="https://www.instagram.com/meenamohit.jsx/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=e95950" alt="Instagram Badge" />
   </a>&nbsp;
   <a href="mailto:its.mohit.kumarr@gmail.com">
